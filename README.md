@@ -8,11 +8,11 @@ Cada registro de transacción expone la información de la fecha y hora, el mont
 
 Por ahora se cuenta con una herramienta basada en el siguiente modelo, la cual busca de manera secuencial, archivo por archivo, las cuentas bancarias que son fraudulentas, esto lo hace sin aprovechar las propiedades multi-núcleo de los equipos modernos:
 
-![](images/classes.png)
+![](ARSW-MoneyLaunderingTest/ARSW-MoneyLaunderingTest/images/classes.png)
 
-![](images/components.png)
+![](ARSW-MoneyLaunderingTest/ARSW-MoneyLaunderingTest/images/components.png)
 
-![](images/deployment.png)
+![](ARSW-MoneyLaunderingTest/ARSW-MoneyLaunderingTest/images/deployment.png)
 
 Nota
 Puntos 1 y 2: proyecto **moneylaunderingtool**. Punto 3: proyecto **moneylaunderingapi**.
